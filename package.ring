@@ -5,11 +5,11 @@ aPackageInfo = [
 	:developer = "Mahmoud Fayed",
 	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
-	:version = "1.0.1",
-	:ringversion = "1.13",
+	:version = "1.0.2",
+	:ringversion = "1.22",
 	:versions = 	[
 		[
-			:version = "1.0.1",
+			:version = "1.0.2",
 			:branch = "master"
 		]
 	],
@@ -30,12 +30,13 @@ aPackageInfo = [
 		"README.md"
 	],
 	:ringfolderfiles = 	[
-		"applications/othellogame/black.jpg",
-		"applications/othellogame/OthelloGame.ring",
-		"applications/othellogame/project.qrc",
+		"applications/othellogame/Black.png",
 		"applications/othellogame/empty.jpg",
+		"applications/othellogame/OthelloGame.ring",
+		"applications/othellogame/OthelloImage.png",
+		"applications/othellogame/project.qrc",
 		"applications/othellogame/README.md",
-		"applications/othellogame/white.jpg"
+		"applications/othellogame/White.png"
 	],
 	:windowsfiles = 	[
 
